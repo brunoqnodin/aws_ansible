@@ -1,0 +1,9 @@
+[local]
+localhost ansible_connection=local ansible_python_interpreter=python gather_facts=false
+[awsansible]
+3.88.37.180
+107.20.103.222
+34.230.19.239
+54.226.175.202
+52.202.176.122
+34.229.224.114

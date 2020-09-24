@@ -1,0 +1,8 @@
+---
+# vars file for aws
+instance_type: t2.micro
+security_group: aws_ansible
+image: ami-0f40c8f97004632f9
+keypair: aws_ansible
+region: us-east-1
+count: 2
